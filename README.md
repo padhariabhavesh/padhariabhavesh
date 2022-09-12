@@ -1,7 +1,7 @@
 # Hi there, I am Bhavesh Padharia 👋 
 
 <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=padhariabhavesh&show_icons=true&theme=radical" />
-<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=padhariabhavesh&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
+
 
 
 Language Known
@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ... Data Science projects
 - 🤔 I’m looking for better opportunity
 - 💬 Ask me about ... Data Science
-- 📫 How to reach me: ... 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me: ... https://www.linkedin.com/in/bhaveshpadharia/
+
 
 
