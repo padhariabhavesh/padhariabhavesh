@@ -11,7 +11,7 @@ Language Known
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... Instagram Scraping
+- 🔭 I’m currently working on ... Developing Data Science Projects
 - 🌱 I’m currently learning ... Selenium
 - 👯 I’m looking to collaborate on ... Data Science projects
 - 🤔 I’m looking for better opportunity
