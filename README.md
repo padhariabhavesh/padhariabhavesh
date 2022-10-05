@@ -1,7 +1,7 @@
 # Hi there, I am Bhavesh Padharia 👋 
 
 
-Here are some ideas to get you started:
+Here are some info about me:
 
 - 🔭 I’m currently working on ... Developing Data Science Projects
 - 🌱 I’m currently learning ... Selenium
