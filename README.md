@@ -1,5 +1,5 @@
 # Hi there, I am Bhavesh Padharia 👋 
-
+![](https://komarev.com/ghpvc/?username=your-github-username)
 
 Here are some info about me:
 
